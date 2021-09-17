@@ -1,3 +1,15 @@
+## Task
+
+![alt text](task.png)
+Detail Task\
+Buatkan menu :
+
+1. informasi biodata (firstName, lastName, tempatLahir, tahunLahir,
+   bahasaPemrogramanFav)
+2. cetak pola
+   ketika user memilih opsi 1, maka yg ditampilkan input biodata dan resumenya
+   opsi 2, yg ditampilkan input n nya dan hasil polanya
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
