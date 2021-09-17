@@ -2,7 +2,7 @@ package task;
 
 import java.util.Scanner;
 
-public class mainTask {
+public class MainTask {
     Task tsk1 = new Task();
     Task2 tsk2 = new Task2();
 
